@@ -1,0 +1,33 @@
+.navbar {
+	padding: 1rem 2rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	/* width: 100%; */
+	font-family: 'Montserrat', sans-serif;
+}
+.wrapper {
+	display: flex;
+	align-items: center;
+}
+.logo {
+	width: 80px;
+}
+.linkWrapper {
+	margin-right: 20rem;
+}
+.linkWrapper ul {
+	display: flex;
+}
+.linkWrapper ul li {
+	list-style-type: none;
+	margin-left: 3rem;
+}
+.linkWrapper ul li a {
+	text-decoration: none;
+	color: #1f187d;
+	font-weight: 500;
+}
+.linkWrapper ul li a:hover {
+	border-bottom: 2px solid #fb6e19;
+}

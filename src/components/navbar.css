@@ -1,0 +1,28 @@
+/* @media only screen and (min-width: 1024px) { 
+  
+    .img-adv {
+    
+        position: absolute;
+        top: 107px;
+        left: 860px;
+      
+    }
+    
+    
+    
+}; */
+@media only screen and (min-width: 1440px) { 
+  
+    .img-adv {
+    
+        position: absolute;
+        top: 2px;
+        left: 92px;
+        /* position: "absolute",
+        top: "107px",
+        left: "860px", */
+    }
+    
+    
+    
+};
